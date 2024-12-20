@@ -62,13 +62,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ischdefelin/ischdefelin/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats-tawny-gamma-93.vercel.app/api?username=ischdefelin&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ischdefelin&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/ischdefelin/ischdefelin/output/snake.svg" alt="Snake animation" />
 </div>
-
-###
