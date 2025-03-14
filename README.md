@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning more Python<br>🎯 Goals: Finish my current project<br>🎲 Fun fact: I fuel my code sessions with chocolate.</p>
+<p align="left">
+  ✨ Creating bugs since 2018<br>
+  📚 I'm currently learning more Python<br>
+  🎯 Goals: Finish my current projects<br>
+  🎲 Fun fact: I fuel my code sessions with chocolate<br>
+  ⚡ I'm currently attending the advanced computer science course at school
+</p>
 
 ###
 
