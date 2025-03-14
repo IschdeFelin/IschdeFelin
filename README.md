@@ -60,8 +60,8 @@
   <img src="https://profile-counter.glitch.me/ischdefelin/count.svg?"  />
 </div>
 
-###
+<!-- ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ischdefelin/ischdefelin/output/snake.svg" alt="Snake animation" />
-</div>
+  <img src="https://raw.githubusercontent.com/ischdefelin/ischdefelin/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div> -->
