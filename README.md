@@ -53,13 +53,3 @@
 </div>
 
 ###
-
-<h2 align="left">GitHub Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ischdefelin/count.svg?"  />
-</div>
-
-###
